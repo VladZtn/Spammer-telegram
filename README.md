@@ -1,4 +1,4 @@
 # Spammer-telegram
 
-pip install Pyrogram
-pip install TgCrypto
+#pip install Pyrogram
+#pip install TgCrypto
